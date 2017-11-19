@@ -1,2 +1,1 @@
-# application
-Member Application Form
+《ISC2北京分会会员申请表》：填写后，请打印、签字、扫描、发出电子邮件
